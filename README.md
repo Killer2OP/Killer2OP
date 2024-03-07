@@ -11,7 +11,10 @@
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
   </h5>
   
+# Badges 
 
+[![An image of @killer2op's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/killer2op)](https://holopin.io/@killer2op)
+# GitHub Stats
 <div align="center"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Killer2OP&show_icons=true&locale=en&layout=compact" alt="Killer2OP"/></p></div>
 <div align="center"><p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Killer2OP&show_icons=true&locale=en" alt="Killer2OP" /></p></div>
 
